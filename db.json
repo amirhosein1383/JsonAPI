@@ -1,0 +1,32 @@
+{
+"users":[
+{
+"id":"1",
+"firstName":"Amir",
+"lastName": "Rajaeizadeh",
+"email":"aaa@gmail.com",
+"companyId":"1"
+},
+
+{
+"id":"2",
+"firstName":"Amir2",
+"lastName": "Rajaeizadeh",
+"email":"aaa@gmail.com",
+"companyId":"1"
+},
+{
+    "id":"3",
+    "firstName":"Amir3",
+    "lastName": "Rajaeizadeh",
+    "email":"aaa@gmail.com",
+    "companyId":"1"
+    },{
+        "id":"4",
+        "firstName":"Amir4",
+        "lastName": "Rajaeizadeh",
+        "email":"aaa@gmail.com",
+        "companyId":"1"
+        }
+]
+}
